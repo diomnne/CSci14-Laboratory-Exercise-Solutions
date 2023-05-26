@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1685075133 source:c:\users\room203-00\desktop\maglasang-lab6\cylindertankimp.cpp
+	<iostream>
+	<cmath>
+	"cylinderTank.h"
+
+1685072363 c:\users\room203-00\desktop\maglasang-lab6\cylindertank.h
+
+1685075262 source:c:\users\room203-00\desktop\maglasang-lab6\main.cpp
+	<iostream>
+	"cylinderTank.h"
+
+1685083066 source:c:\users\magla\onedrive\desktop\c c++\c++\csci14-laboratory-exercise-solutions\ip-lab-6\lab-6-solution\cylindertankimp.cpp
+	<iostream>
+	<cmath>
+	"cylinderTank.h"
+
+1685083066 c:\users\magla\onedrive\desktop\c c++\c++\csci14-laboratory-exercise-solutions\ip-lab-6\lab-6-solution\cylindertank.h
+
+1685083066 source:c:\users\magla\onedrive\desktop\c c++\c++\csci14-laboratory-exercise-solutions\ip-lab-6\lab-6-solution\main.cpp
+	<iostream>
+	"cylinderTank.h"
+
